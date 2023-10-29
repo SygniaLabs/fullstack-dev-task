@@ -1,4 +1,4 @@
-# Sygnia's Backend Dev Task
+# Sygnia's Full Stack Dev Task
 
 Hi!  
 We hope the process is going well for you so far.
@@ -17,7 +17,7 @@ If you prefer to develop locally:
 If you prefer using Jupyter Notebook, you can also use **Binder**:
 1. Go to [https://mybinder.org/](https://mybinder.org/)
 
-2. Set [https://github.com/SygniaLabs/backend-dev-task](https://github.com/SygniaLabs/backend-dev-task) as the GitHub repository URL and hit launch
+2. Set [https://github.com/SygniaLabs/fullstack-dev-task](https://github.com/SygniaLabs/fullstack-dev-task) as the GitHub repository URL and hit launch
 
 3. Open `the_big_bang.ipynb` and follow the instructions there
 
