@@ -10,7 +10,7 @@ Please follow the instructions below, and don't hesitate to ask us for anything 
 
 If you prefer to develop locally: 
 1. Clone the repo
-2. Choose the relevant file based on your preference (.py / .ipynb)
+2. Choose the relevant file based on your preference (.py / .ipynb / .ts)
 3. Follow the instructions in the file
 
 
@@ -21,12 +21,11 @@ If you prefer using Jupyter Notebook, you can also use **Binder**:
 
 3. Open `the_big_bang.ipynb` and follow the instructions there
 
-If you prefer to develop in typescript:
-1. Download the file theBingBang.ts
-2. You can also use **Playcode**
-  a. Go to [https://playcode.io/typescript][https://playcode.io/typescript]
-  b. Paste the file content their
-  c. Add the `assert` package on the left pane
+If you prefer to develop in typescript, you can also use **Playcode**
+1. Download the file `theBingBang.ts`
+2. Go to [https://playcode.io/typescript](https://playcode.io/typescript)
+3. Paste the file content their
+4. Add the `assert` package on the left pane
 
 Once you are done - use [this form](https://forms.monday.com/forms/cd5860e7c7c7ce48ee9fb63696d1b32b?r=use1) to submit your solution.
 
