@@ -21,7 +21,12 @@ If you prefer using Jupyter Notebook, you can also use **Binder**:
 
 3. Open `the_big_bang.ipynb` and follow the instructions there
 
-
+If you prefer to develop in typescript:
+1. Download the file theBingBang.ts
+2. You can also use **Playcode**
+  a. Go to [https://playcode.io/typescript][https://playcode.io/typescript]
+  b. Paste the file content their
+  c. Add the `assert` package on the left pane
 
 Once you are done - use [this form](https://forms.monday.com/forms/cd5860e7c7c7ce48ee9fb63696d1b32b?r=use1) to submit your solution.
 
